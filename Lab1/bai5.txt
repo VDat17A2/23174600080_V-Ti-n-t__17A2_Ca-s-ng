@@ -1,0 +1,2 @@
+Nhập số giờ sử dụng máy lọc không khí: 3
+Tổng số tiền điện phải trả cho việc sử dụng máy lọc không khí là: 4950.00 đồng
