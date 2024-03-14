@@ -1,0 +1,3 @@
+Số tiền sau 5 năm: $13382.26
+Số tiền sau 10 năm: $17908.48
+Tỷ lệ tăng trưởng sau 10 năm so với 5 năm: 79.08%
