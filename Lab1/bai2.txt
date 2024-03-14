@@ -1,1 +1,5 @@
-jggj
+Nhập số lượng sách: 16
+Nhập mã sinh viên: 23174600080
+Nhập tên sách: Vũ Tiến Đạt
+Nhập tác giả: Đạt 
+Nhập năm xuất bản: 2005
