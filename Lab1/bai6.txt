@@ -1,0 +1,7 @@
+Nhập tọa độ của vector a (x, y, z): 2 3 4
+Nhập tọa độ của vector b (x, y, z): 1 2 3
+1. Phép cộng vector a + b: [3.0, 5.0, 7.0]
+   Phép trừ vector a - b: [1.0, 1.0, 1.0]
+2. Độ dài của vector a: 5.39
+   Độ dài của vector b: 3.74
+3. Cosin góc hợp giữa hai vector a và b: 0.99
