@@ -1,0 +1,3 @@
+Nhập giá trị của x: 1
+Nhập giá trị của z: 2
+Giá trị của biểu thức là: 0.76
