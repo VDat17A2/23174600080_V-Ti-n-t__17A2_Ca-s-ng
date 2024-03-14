@@ -1,0 +1,4 @@
+Nhập các hệ số a1, b1, c1 của phương trình thứ nhất (a1x + b1y = c1): 2 3 4
+Nhập các hệ số a2, b2, c2 của phương trình thứ hai (a2x + b2y = c2): 4 5 6
+Giá trị của x là: -1.0
+Giá trị của y là: 2.0
