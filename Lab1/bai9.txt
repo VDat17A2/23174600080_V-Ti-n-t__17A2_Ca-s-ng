@@ -1,0 +1,8 @@
+Nhập tọa độ của điểm M (x, y): 2 3
+Nhập tọa độ của điểm N (x, y): 3 4 
+Nhập tọa độ của điểm P (x, y): 5 6
+Nhập tọa độ của điểm Q (x, y): 1 2
+Tọa độ trung điểm của cạnh MN: (2.5, 3.5)
+Tọa độ trung điểm của cạnh NP: (4.0, 5.0)
+Tọa độ trung điểm của cạnh PQ: (3.0, 4.0)
+Tọa độ trung điểm của cạnh QM: (1.5, 2.5)
