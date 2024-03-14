@@ -1,0 +1,5 @@
+Nhập độ dài cạnh đáy của hình chóp tứ giác đều: 5
+Nhập chiều cao của hình chóp tứ giác đều: 10
+Diện tích xung quanh của hình chóp tứ giác đều là: 43.30
+Diện tích toàn phần của hình chóp tứ giác đều là: 68.30
+Thể tích của hình chóp tứ giác đều là: 108.25
