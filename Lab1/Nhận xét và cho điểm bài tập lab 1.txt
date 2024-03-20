@@ -1,0 +1,35 @@
++ Em quá lạm dụng function, những bài đơn giản nhất cũng không nên sử dụng function
+
+- Bài 1: trong câu lệnh print của em không có dấu nháy. Hiện tại cả đoạn code của em đang là chú thích
+Điểm bài tập: 0.5
+
+- Bài 2: đoạn code em đang làm được ví như "lấy con voi đè chết con kiến". Sử dụng quá nhiều kiến thức "cao siêu" cho một bài đơn giản. Sử dụng function, hướng đối tượng, kiến thức vượt ngoài kiến thức lab 1, vượt cả kiến thức năm nhất
+Điểm bài tập: 0.5
+
+- Bài 3: đúng 
+Điểm bài tập: 1.0
+
+- Bài 4: xem lại các công thức tính diện tích xung quanh và thể tích hình chóp tứ giác đều. Sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 5: Sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 6: Sử dụng function, tuple kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 7: Sử dụng function kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 8: Sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 9: Sử dụng function, tuple kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 10: Sử dụng function, vòng lặp for kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 1: 6.0
+(Tổng điểm thực của em là 5.5. Tuy nhiên học lực của em cô đánh giá mức khá, từ những lab sau em nên sử dụng những kiến thức trong lab đấy hoặc lab trước đó, không nên sử dụng những kiến thức cao siêu làm gì. Nắm chắc cơ bản từ ban đầu sau này sẽ dễ dàng hơn)
+
