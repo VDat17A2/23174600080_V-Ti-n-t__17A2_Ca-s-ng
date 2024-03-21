@@ -1,0 +1,4 @@
+Các thể loại phim: Hành động, Kinh dị, Tình cảm, Hài hước, Hoạt hình
+Nhập thể loại phim bạn muốn xem: kinh dị
+Nhập thời gian bạn muốn xem phim (sáng, trưa, chiều, tối): tối
+Suất chiếu phim kinh dị vào buổi tối
