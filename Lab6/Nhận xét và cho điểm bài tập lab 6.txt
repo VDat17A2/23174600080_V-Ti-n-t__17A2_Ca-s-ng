@@ -1,0 +1,19 @@
+Bài 1: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 0.5
+
+Bài 2: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 1.0
+
+Bài 3: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 0.5
+
+Bài 4: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 1.0
+
+Bài 5: đúng
+Điểm: 2.0 
+
+Bài 6: thực hiện tính tổng, các phần còn lại của đề bài chưa thực hiện
+Điểm: 0.5
+
+Tổng điểm bài tập lab 6: 5.5/12 -> 4.75

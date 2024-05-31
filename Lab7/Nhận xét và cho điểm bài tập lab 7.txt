@@ -1,0 +1,16 @@
+Bài 1: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 0.5
+
+Bài 2: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 1.5
+
+Bài 3: đúng
+Điểm: 2.0
+
+Bài 4: đúng
+Điểm: 2.0
+
+Bài 5: đúng
+Điểm: 2.0 
+
+Tổng điểm bài tập lab 7: 8/10 -> 8.0

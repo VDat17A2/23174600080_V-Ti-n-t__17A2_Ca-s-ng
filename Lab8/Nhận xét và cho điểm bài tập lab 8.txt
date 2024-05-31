@@ -1,0 +1,19 @@
+Bài 1: đúng
+Điểm: 1.0
+
+Bài 2: đúng
+Điểm: 2.0
+
+Bài 3: ý 1 đúng, thiếu ý 2 
+Điểm: 1.5
+
+Bài 4: đúng
+Điểm: 1.0
+
+Bài 5: đúng
+Điểm: 2.0 
+
+Bài 6: chưa thực hiện đúng theo yêu cầu đề bài
+Điểm: 2.0
+
+Tổng điểm bài tập lab 8: 9.5/13 -> 7.5
